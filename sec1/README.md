@@ -8,6 +8,7 @@ Question
 
 Solutions
 * [Python](./python/primes.py) [(golfed)](./python/primes_golfed.py)
+* [JS](./js/primes.js)
 
 ### Page 90
 
@@ -16,6 +17,7 @@ Question
 
 Solutions
 * [Python](./python/heron.py)
+* [JS](./js/heron.js)
 
 ### Page 140
 
@@ -38,6 +40,7 @@ Solutions
 
 (a)
 * [Python](./python/linear1.py)
+* [JS](./js/linear1.py)
 
 (b)
 * [Python](./python/linear2.py) (too lazy to complete)
@@ -49,6 +52,7 @@ Question
 
 Solutions
 * [Python](./python/hailstone.py)
+* [JS](./js/hailstone.js)
 
 ## Textbook 1B
 ### Page 57
@@ -58,6 +62,7 @@ Question
 
 Solutions
 * [Python](./python/exchange.py)
+* [JS](./js/exchange.js)
 
 ### Page 145
 
@@ -66,3 +71,4 @@ Question
 
 Solutions
 * [Python](./python/convert.py)
+* [JS](./js/convert.js)

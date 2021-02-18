@@ -6,7 +6,7 @@ def generate_primes(no=100):
             for prime in primes:
                 if not i%prime:
                     is_prime = False
-                    pass
+                    break
             if is_prime:
                 primes.append(i)
     return primes
